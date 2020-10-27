@@ -1,0 +1,4 @@
+#Mon Oct 26 23:09:15 MDT 2020
+base.0=C\:\\Users\\paleb\\Desktop\\Uni\\CMPUT 301\\LAB\\Lab8 - Travis CI\\Lab8-TravisCI\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

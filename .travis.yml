@@ -7,15 +7,17 @@ env:
   
 android:
   components:
+    
+    - build-tools-25.0.2
+    - android-29
   
   
   licenses:
   
   
 before_install:
-- chmod +x gradlew
-
-
+  - chmod +x gradlew
+  - yes | sdkmanager "platforms;android-29"
 
 
 before_script:
