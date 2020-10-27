@@ -16,5 +16,4 @@ before_install:
 - chmod +x gradlew
 
 
-
 before_script:
